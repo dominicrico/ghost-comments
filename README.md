@@ -1,10 +1,8 @@
-# [Ghost-App](https://github.com/TryGhost/Ghost-App) [![Build Status](https://travis-ci.org/TryGhost/Ghost-App.png?branch=master)](https://travis-ci.org/TryGhost/Ghost-App)
+#Ghost Comments
 
-The Ghost App module allows developers to build applications for the Ghost platform.
-
-For more information please see: [Getting Started with Apps for Ghost Devs](https://github.com/TryGhost/Ghost/wiki/Apps-Getting-Started-for-Ghost-Devs)
-
+Comments landing in your Ghost Blog!
+This app adds a comment box to your Ghost Blog.
 
 ## Copyright & License
 
-Copyright (c) 2013-2015 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2016 Dominic Rico Gómez  | [Code:Skate](https://www.code-skate.com) - Released under the [MIT license](LICENSE).

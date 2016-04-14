@@ -1,1 +1,3 @@
-module.exports = require('./lib/App');
+var ghostApp = require('ghost-app');
+
+console.log(ghostApp);
